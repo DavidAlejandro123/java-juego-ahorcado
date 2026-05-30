@@ -49,4 +49,21 @@ public class Ahorcado {
 
         scanner.close();
     }
+    /*
+    //para inicilizar repositorio git local
+    git init
+
+    //para agregar todos los archivos al staging
+    git add .
+
+    //Hacemos commit de los archivos (es como una fotografia de lo que tenemos ahora) agrega todos los archivos para subir
+    git commit -m "Juego del Ahorcado V1"
+    
+    //para enlazar con el repositorio remoto y poder subirlo
+    git remote add origin https://github.com/DavidAlejandro123/java-juego-ahorcado.git
+
+    //para subir al origen remoto
+    git push -u origin master
+    
+    */
 }
